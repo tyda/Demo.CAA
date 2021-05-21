@@ -1,0 +1,7 @@
+!<mkRTViewData> v1.0.0
+RTV/002/DSI .\win_b64\code\productIC\DemoFWIC.required|.\DemoFW
+BTV/002/CUS .\win_b64\code\productIC\DemoFWIC.script|.\DemoFW
+BTV/002/CUS .\win_b64\code\productIC\DemoFWIC.xml|.\DemoFW
+CSC/002/DSI .\DemoFW\IdentityCard\Objects\win_b64\mkcsc\DemoFW.cscdb|.\DemoFW
+@type=codeFramework
+@built=true

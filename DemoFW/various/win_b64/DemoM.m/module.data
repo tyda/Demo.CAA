@@ -1,0 +1,9 @@
+!<mkRTViewData> v1.0.0
+CSC/000/DSI .\DemoFW\DemoM.m\Objects\win_b64\mkcsc\DemoM.cscdb|.\DemoFW\DemoM.m
+RTV/001/CUS .\win_b64\code\bin\DemoM.exe|.\DemoFW\DemoM.m
+INT/000/CUS .\win_b64\code\bin\DemoM.pdb|.\DemoFW\DemoM.m
+@type=LOAD_MODULE
+@clr=false
+@kind=NATIVE
+@deliverable=true
+@built=true

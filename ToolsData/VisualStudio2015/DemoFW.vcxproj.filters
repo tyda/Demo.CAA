@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="IdentityCard">
+      <UniqueIdentifier>{78172a23-f757-44cd-842d-f102722bbdfa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="IdentityCard\Objects">
+      <UniqueIdentifier>{216b412d-32c0-4592-a8cc-781022f9d593}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="IdentityCard\Objects\win_b64">
+      <UniqueIdentifier>{8c920e80-3748-4f8d-bc4b-eae104f3e99b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="IdentityCard\Objects\win_b64\.mkGraphs">
+      <UniqueIdentifier>{f12e056f-2ac3-4486-8895-64b8da502e73}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="PrivateInterfaces">
+      <UniqueIdentifier>{1f2d30ec-4718-4428-a1f1-b5219d79f7e7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ProtectedInterfaces">
+      <UniqueIdentifier>{991fab1a-6a1f-400d-8623-f5f2a81ff97d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="PublicInterfaces">
+      <UniqueIdentifier>{c47efff5-6e89-43dc-8b82-fb0331523a26}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\DemoFW\PublicInterfaces\DemoM.h">
+      <Filter>PublicInterfaces</Filter>
+    </ClInclude>
+    <None Include="..\..\DemoFW\IdentityCard\IdentityCard.xml">
+      <Filter>IdentityCard</Filter>
+    </None>
+    <None Include="..\..\DemoFW\IdentityCard\Objects\win_b64\.HeaderTable.file">
+      <Filter>IdentityCard\Objects\win_b64</Filter>
+    </None>
+    <None Include="..\..\DemoFW\IdentityCard\Objects\win_b64\.mkdata.mk">
+      <Filter>IdentityCard\Objects\win_b64</Filter>
+    </None>
+    <None Include="..\..\DemoFW\IdentityCard\Objects\win_b64\.mkdata.mkb">
+      <Filter>IdentityCard\Objects\win_b64</Filter>
+    </None>
+    <None Include="..\..\DemoFW\IdentityCard\Objects\win_b64\.mkGraphs\mkBSHeaderList.mkDG">
+      <Filter>IdentityCard\Objects\win_b64\.mkGraphs</Filter>
+    </None>
+    <None Include="..\..\DemoFW\IdentityCard\Objects\win_b64\.mkGraphs\mkBSHeaderMap.mkDG">
+      <Filter>IdentityCard\Objects\win_b64\.mkGraphs</Filter>
+    </None>
+    <None Include="..\..\DemoFW\IdentityCard\Objects\win_b64\.mkGraphs\mkBSHeaderRuler.mkDG">
+      <Filter>IdentityCard\Objects\win_b64\.mkGraphs</Filter>
+    </None>
+    <None Include="..\..\DemoFW\IdentityCard\Objects\win_b64\.mkGraphs\mkBSIdcardBuild.mkDG">
+      <Filter>IdentityCard\Objects\win_b64\.mkGraphs</Filter>
+    </None>
+    <None Include="..\..\DemoFW\IdentityCard\Objects\win_b64\.mkHLpath.mk">
+      <Filter>IdentityCard\Objects\win_b64</Filter>
+    </None>
+    <None Include="..\..\DemoFW\IdentityCard\Objects\win_b64\.mkPreqHelpers.mkb">
+      <Filter>IdentityCard\Objects\win_b64</Filter>
+    </None>
+    <None Include="..\..\DemoFW\IdentityCard\README.md">
+      <Filter>IdentityCard</Filter>
+    </None>
+  </ItemGroup>
+</Project>
